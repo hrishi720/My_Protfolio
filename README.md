@@ -4,7 +4,7 @@ A modern and responsive AI/ML Engineer portfolio built using React, Vite, Tailwi
 
 ## 🌐 Live Demo
 
-[Visit Portfolio](https://your-vercel-link.vercel.app)
+[Visit Portfolio](https://mypotfolio-puce.vercel.app/)
 
 ---
 
